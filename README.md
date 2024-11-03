@@ -23,10 +23,6 @@ Este é um sistema de controle e gerenciamento de ordens de serviço para uma of
 7. **Peça**: Registra peças necessárias, com seus valores.
 8. **Item_OS**: Associa serviços e peças à OS específica.
 
-### Diagrama Conceitual
-
-![Diagrama Conceitual](link_para_o_diagrama.png)
-
 ### Banco de Dados Relacional
 
 O sistema é estruturado em um banco de dados relacional, com a seguinte estrutura de tabelas:
